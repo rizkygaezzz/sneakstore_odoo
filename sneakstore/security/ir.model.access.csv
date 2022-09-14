@@ -1,0 +1,12 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_sneakstore_kelompokbarang,access.sneakstore.kelompokbarang,model_sneakstore_kelompokbarang,,1,1,1,1
+access_sneakstore_barang,access.sneakstore.barang,model_sneakstore_barang,,1,1,1,1
+
+
+access_sneakstore_supplier,access.sneakstore.supplier,model_sneakstore_supplier,,1,1,1,1
+access_sneakstore_penjualan,access.sneakstore.penjualan,model_sneakstore_penjualan,,1,1,1,1
+access_sneakstore_detailpenjualan,access.sneakstore.detailpenjualan,model_sneakstore_detailpenjualan,,1,1,1,1
+access_sneakstore_barangdatang,access.sneakstore.barangdatang,model_sneakstore_barangdatang,,1,1,1,1
+
+
+
